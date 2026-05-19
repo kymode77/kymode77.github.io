@@ -1,0 +1,13 @@
+title: "Hodling"
+description: "Show Me The Money"
+
+url: "https://kymode77.github.io"
+baseurl: ""
+
+lang: ko-KR
+timezone: Asia/Seoul
+
+theme: minima
+
+plugins:
+  - jekyll-feed
